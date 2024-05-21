@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1080693553662",
+    "firebase_url": "https://controll-led-201bd-default-rtdb.asia-southeast1.firebasedatabase.app/",
+    "project_id": "controll-led-201bd",
+    "storage_bucket": "controll-led-201bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080693553662:android:049ac6b69e65599a9868af",
+        "android_client_info": {
+          "package_name": "com.example.led_controll"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCojESCHLrLoIsS1GTZQhB9Ayyb5grp7yo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
